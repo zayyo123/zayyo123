@@ -14,7 +14,7 @@
 
 ## 技术栈
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,less,scss,tailwind,react,redux,vue,nuxt,pinia,electron,webpack,vite,npm,yarn,pnpm,md,git,gitlab,github,nodejs,mysql,mongodb,vscode,idea,webstorm,pycharm,postman,bootstrap,ps,php,powershell,py,notion,md&perline=10" />
   </a>
