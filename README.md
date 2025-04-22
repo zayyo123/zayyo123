@@ -2,7 +2,10 @@
 
 🌈 程序员，喜欢写代码，喜欢做产品，喜欢分享技术知识，努力成为全栈。独立开发者
 
-🏡 个人博客（掘金）：[https://juejin.cn/user/1627728459336615](https://juejin.cn/user/1627728459336615)
+🏡 个人博客：
+
+- （掘金）[https://juejin.cn/user/1627728459336615](https://juejin.cn/user/1627728459336615)
+- （CSDN）[https://blog.csdn.net/weixin_45215308?type=blog](https://blog.csdn.net/weixin_45215308?type=blog)
 
 🎉 开源项目：[前端监控系统](https://github.com/zayyo123/monitor-middle-platform)、[后台管理系统](https://github.com/zayyo123/vue3-ts-admin)
 
