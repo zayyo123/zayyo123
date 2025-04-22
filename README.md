@@ -8,9 +8,9 @@
 
 ## 联系方式
 
-💬 微信：<img src="1745289707859.png" width="200" height="auto" alt="微信二维码" />
-<br/>
-✉️ 邮箱：`764439554@qq.com`
+<p align="left">💬 微信：<img src="1745289707859.png" width="200" height="auto" alt="微信二维码" /></p>
+
+<p align="right">✉️ 邮箱：`764439554@qq.com`</p>
 
 ## 技术栈
 
