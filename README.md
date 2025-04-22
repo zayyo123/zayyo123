@@ -9,6 +9,7 @@
 ## 联系方式
 
 💬 微信：<img src="1745289707859.png" width="200" height="auto" alt="微信二维码" />
+<br/>
 ✉️ 邮箱：`764439554@qq.com`
 
 ## 技术栈
@@ -18,4 +19,4 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,less,scss,tailwind,react,redux,vue,nuxt,pinia,electron,webpack,vite,npm,yarn,pnpm,md,git,gitlab,github,nodejs,mysql,mongodb,vscode,idea,webstorm,pycharm,postman,bootstrap,ps,php,powershell,py,notion,md&perline=10" />
   </a>
 </p>
-<img  src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
