@@ -19,4 +19,4 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,less,scss,tailwind,react,redux,vue,nuxt,pinia,electron,webpack,vite,npm,yarn,pnpm,md,git,gitlab,github,nodejs,mysql,mongodb,vscode,idea,webstorm,pycharm,postman,bootstrap,ps,php,powershell,py,notion,md&perline=10" />
   </a>
 </p>
-<div style="text-align:center"><img  src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /></div>
+ <p align="center"><img  src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /></p>
